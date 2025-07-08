@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm ChaeJun 👋</h1>
 
 <p align="center">
-    I'm an aspiring Cloud and DevOps Engineer with a strong interest in backend development, cloud infrastructure, and system automation. ☁️🛠️ <br>
+    I'm a Cloud and DevOps enthusiast with a passion for backend development and cloud infrastructure automation. ☁️🛠️ <br>
     I enjoy playing team sports like soccer and basketball, and I love exploring new places and experiences through solo travel. ⚽🏀🌍✈️<br><br>
     I'm always eager to take on new challenges and collaborate with others to grow and create impactful solutions.<br> 
     Let's connect and build something great together! ✨
@@ -17,8 +17,11 @@
 ### 🔐 Monitoring & Security
 
 ### 💻 Development
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<p>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+</p>
+
 
 ### 🏗️ Infrastructure
 
