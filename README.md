@@ -9,7 +9,7 @@
     and found genuine satisfaction in enhancing system reliability through technology.<br><br>
     I don't stop at learning new technologies—<br>
     I aim to grow through hands-on experience and collaborate with teams to build better systems together.<br><br>
-    I enjoy playing team sports like soccer and basketball, and I love exploring new places and experiences through solo travel. ⚽🏀🌍✈️<br>
+    I enjoy playing team sports like soccer and basketball, and I love exploring new places and experiences through travel. ⚽🏀🌍✈️<br>
     Let's connect and build something great together! ✨
 </p>
 
@@ -21,8 +21,8 @@
 <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
 </p>
 
